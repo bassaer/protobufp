@@ -26,7 +26,6 @@ libprotoc 3.7.1
 
 ```
 ❯ python writer.py
-
 ```
 
 
