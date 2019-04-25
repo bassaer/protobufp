@@ -2,6 +2,9 @@
 
 ## setup
 ```
+❯ python -V
+Python 3.7.2
+
 ❯ brew install protobuf
 ...
 
